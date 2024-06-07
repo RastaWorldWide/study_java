@@ -22,3 +22,4 @@ public class task_1409 {
         out.flush();
     }
 }
+

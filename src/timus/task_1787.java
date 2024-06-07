@@ -23,3 +23,4 @@ public class task_1787 {
         System.out.println(left);
     }
 }
+

@@ -32,3 +32,5 @@ public class task_1785 {
         System.out.flush();
     }
 }
+
+

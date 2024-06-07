@@ -25,9 +25,7 @@ public class task_1197 {
 
         }
         out.flush();
-
     }
-
     public static int[][] getInts() {
         return new int[][]{
                 {2, 3, 4, 4, 4, 4, 3, 2},
@@ -40,6 +38,4 @@ public class task_1197 {
                 {2, 3, 4, 4, 4, 4, 3, 2}
         };
     }
-
-
 }
